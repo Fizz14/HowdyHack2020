@@ -1,0 +1,15 @@
+Hey guys, good luck on this, and thanks for getting up early to work on it. I feel I have been very productive, so hopefully it will be easy for yall to fine tune what we've done.
+
+I think I've found a really good layout, and also notice that the window can be resized, and the elements still have a good order.
+
+If you could, I think it would be really effective to replace the default graphics of tkinter with our own images. Generally, flat is a good style to go with. :D I have made some buttons up/down based on an image I found from google. See if you can incorporate them. At the moment, they don't stretch to fit the buttons from tkinter. you could either find a way to change that or just change the aspect ratios of the image, and find a way to hide the default shitty buttons/radio menus. 
+
+If you get this far, try to use a button down graphic for the textboxes. 
+
+Check the help and what is this buttons, and edit them as you see fit :D
+
+try to do what you can :D
+
+Also, we have to make a video showing the software. Please check everything that has to be in the submission an hour or so in advance.
+
+It would be cool if you submit the console program as well.
